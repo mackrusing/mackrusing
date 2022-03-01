@@ -23,3 +23,10 @@ If you want to contact me, feel free to send an email.
 [mackrusing@gmail.com](mailto:mackrusing@gmail.com)
 
 If you found a problem or need technical support with a project of mine, **please check the documentation or file an issue before contacting me**. If the issue persists, reach out to me.
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
