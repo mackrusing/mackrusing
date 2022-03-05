@@ -1,5 +1,7 @@
 # Hi, I'm Mack.
 
+---
+
 **I'm a high-school student who loves to code.**
 
 ---
@@ -34,5 +36,3 @@ Other        6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
----
