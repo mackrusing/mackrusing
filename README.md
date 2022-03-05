@@ -1,30 +1,30 @@
-# Hi, I'm Mack.
+# Hi, I'm Mack. 👋
 
-I'm an aspiring software developer living in Phoenix, Arizona.
-
-## About
-
-I took my first steps into web development in 2019, learning how websites are structured and styled with HTML and CSS. With the small ammount of knowledge I learned, I registered a domain and [created my first website](https://github.com/mackrusing/mackrusing.github.io/tree/e34465a56cfd279c10adcbb16e8fee9d203c9e87).
-
-After that I dove into Python, and the basics of object-oriented programming. Since then Python has been my go-to language.
-
-More recently I have been tinkering with the open-source keyboard firmware [QMK](https://qmk.fm/) and the web framework Flask.
-
-## Find me elsewhere
-
-- [Website](https://mackrusing.com)
-- [Reddit](https://reddit.com/u/mackrusing)
-- [Twitter](https://twitter.com/mackrusing)
-
-## Contact me
-
-If you want to contact me, feel free to send an email.
-
-[mackrusing@gmail.com](mailto:mackrusing@gmail.com)
-
-If you found a problem or need technical support with a project of mine, **please check the documentation or file an issue before contacting me**. If the issue persists, reach out to me.
+**I'm a high-school student who loves to code.**
 
 ---
+
+#### Currently
+
+- ⚙️ Working on backend development in `.js` and `.ts`
+- 🛠 Building rest apis with **Node.js**
+- 🥧 Creating fun things with a **Raspberry Pi**
+
+---
+
+#### Bio
+
+- 📍 Living in **Phoenix, AZ**
+- 🧠 Knowlegde of `.py`, `.html`, `.css`, `.js`, `.ts`
+- 🔨 Experience with **Node.js**, **Flask**, **QMK**, **Linux**
+- 🖌 Designed **[mackrusing.com](https://mackrusing.com)**
+- ⌨️ Currently obsessed with **mechanical keyboards**
+- ☎️ Reach out to me on **[twitter.com/mackrusing](https://twitter.com/mackrusing)**
+- 📫 Send an email to **[mackrusing@gmail.com](mailto:mackrusing@gmail.com)**
+
+---
+
+#### Stats
 
 <!--START_SECTION:waka-->
 
@@ -38,5 +38,3 @@ Other        6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
----
