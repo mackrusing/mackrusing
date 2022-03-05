@@ -1,6 +1,4 @@
-# Hi, I'm Mack.
-
----
+# Hi, I'm Mack. 👋
 
 **I'm a high-school student who loves to code.**
 
@@ -14,6 +12,8 @@
 
 ---
 
+#### Bio
+
 - 📍 Living in **Phoenix, AZ**
 - ✏️ Involved in **@Sunnslope-Coding**
 - 🧠 Knowlegde on `.py`, `.html`, `.css`, `.js`, `.ts`
@@ -23,6 +23,8 @@
 - ☎️ Reach out to me on **[twitter.com/mackrusing](https://twitter.com/mackrusing)**
 
 ---
+
+#### Stats
 
 <!--START_SECTION:waka-->
 
