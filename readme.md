@@ -6,8 +6,8 @@
 
 #### Currently
 
-- ⚙️ Working on backend development in `.js` and `.ts`
-- 🛠 Building rest apis with **Node.js**
+- 📚 Cramming for the AP CSP test
+- ⚙️ Working on backend development in `.js`
 - 🥧 Creating fun things with a **Raspberry Pi**
 
 ---
