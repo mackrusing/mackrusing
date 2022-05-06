@@ -1,36 +1,21 @@
 # Hi, I'm Mack. 👋
 
-**I'm a high-school student who loves to code.**
+I'm a high-school student who loves to code.
 
----
+<!-- --- -->
 
-#### Currently
+## Currently
 
-- 📚 Cramming for the AP CSP test
-- ⚙️ Working on backend development in `.js`
+- 📚 Taking AP Computer Science Principles
+- ⚙️ Working on backend development in `.js` and `.ts`
+- 📜 Learning `.sh` scripting
 - 🥧 Creating fun things with a **Raspberry Pi**
 
----
+<!-- --- -->
 
-#### Bio
+## Bio
 
-- 📍 Living in **Phoenix, AZ**
-- 🧠 Knowlegde of `.py`, `.html`, `.css`, `.js`, `.ts`
-- 🔨 Experience with **Node.js**, **Flask**, **QMK**, **Linux**
-- 🖌 Designed **[mackrusing.com](https://mackrusing.com)**
-- ⌨️ Currently obsessed with **mechanical keyboards**
-- ☎️ Reach out to me on **[twitter.com/mackrusing](https://twitter.com/mackrusing)**
-- 📫 Send an email to **[mackrusing@gmail.com](mailto:mackrusing@gmail.com)**
-
----
-
-#### Stats
-
-<!--START_SECTION:waka-->
-
-```text
-Bash       30 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀   70.66 %
-Markdown   12 mins         ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.34 %
-```
-
-<!--END_SECTION:waka-->
+- 🧠 Knowlegde of `.py`, `.js`, `.ts`, `.sh`, `.css`, `.html`
+- 🖥️ Making stuff with **Node.js**, **Express**, **Flask**, **Raspbery Pi**
+- 🧰 Developing with **Neovim**, **tmux**, **Zsh**, **iTerm**, **VS Code** ([view dotfiles](https://github.com/mackrusing/dotfiles))
+- 🎮 Spending my free time playing video games, building mechanical keyboards, and playing chess
