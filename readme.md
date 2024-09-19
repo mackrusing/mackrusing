@@ -1,6 +1,6 @@
 # Hello World!
 
-Hi, I'm Mack! I'm an 18-year-old student currently living in Phoenix, Arizona.
+Hi, I'm Mack. I'm an 18-year-old student originally from Phoenix, AZ and currently living in Washington, DC.
 
 More about me on my [**website →**](https://www.mackk.net)
 
@@ -14,4 +14,5 @@ Most of my commits are signed with my security key which has the fingerprint bel
 
 ## Contact
 
-If you need to contact me, feel free to send an email to mail@mackk.net (my email is hosted by Proton Mail).
+If you need to contact me, feel free to send an email to mail@mackk.net.
+
