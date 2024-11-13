@@ -1,6 +1,6 @@
 # Hello World!
 
-Hi, I'm Mack. I'm an 18-year-old student originally from Phoenix, AZ and currently living in Washington, DC.
+Hi, I'm Mack. I'm a 19-year-old student originally from Phoenix, AZ and currently living in Washington, DC.
 
 More about me on my [**website →**](https://www.mackk.net)
 
