@@ -4,8 +4,6 @@ Hi, I'm Mack. I host my personal projects on [**Codeberg**](https://codeberg.org
 
 ## Signed Commits
 
-Commits with my personal email are signed using [my GPG key](https://www.mackk.net/mackrusing.asc) with the fingerprint below.
+I sign all commits with my openPGP key. See [mackrusing/openpgp](https://github.com/mackrusing/openpgp) for more info.
 
-```
-1A2D 0E8B 2113 2F78 5481  CC53 E8D5 BCB2 793E D3B1
-```
+Get my current public key at <https://openpgp.mackk.net/8555BC4647CC0B392F1F1311B64C73CF54B57069.pub.asc>
